@@ -45,5 +45,8 @@ To repack into `myfx.bin`:
 Assuming no modifications were made to the unpacked files, the files 
 `fx.bin` and `myfx.bin` should have identical contents.
 
+The files unpacked are not decompiled or disassembled. 
+For that, you will need another tool (or make your own). 
+
 # License
 This software is licensed under the Boost Software License (BSL-1.0).
